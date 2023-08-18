@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GameClock</string>
+
+    <string name="advanced_prompt">Enable Advanced options</string>
+    <string name="advanced_off_prompt">Advanced options like multiple stages and Handicap are currently disabled</string>
+    <string name="advanced_on_prompt">Advanced options like multiple stages and Handicap are now enabled</string>
+
+    <string name="handicap_prompt">Enable Asymmetric Timers</string>
+    <string name="handicap_off_prompt">Asymmetric timers are currently disabled</string>
+    <string name="handicap_on_prompt">Asymmetric timers are now enabled</string>
+    <string name="lister_app_bar_text">Start Dual Player Game</string>
+    <string name="lister_new_config_prompt">Add New</string>
+
+    <string-array name="clock_type_simple">
+        <item>Fixed time per move</item>
+        <item>Fixed time per game</item>
+    </string-array>
+
+    <string-array name="time_prompt">
+        <item>Time per move</item>
+        <item>Starting time</item>
+    </string-array>
+
+    <string-array name="time_sub_prompt">
+        <item>each move must be completed before time runs out</item>
+        <item>the initial amount of time given at the start</item>
+    </string-array>
+
+    <string-array name="clock_type_complex">
+        <item>Fixed time per move</item>
+        <item>Fixed time per stage</item>
+    </string-array>
+</resources>
